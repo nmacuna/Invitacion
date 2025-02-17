@@ -1,7 +1,7 @@
 const yesBtn = document.querySelector('#yesBtn');
 
 yesBtn.addEventListener('click',function () {
-    alert('Thanks, I don not have cookies :)')
+    alert('Thanks, I do not have cookies :)')
 });
 
 const noBtn = document.querySelector('#noBtn');
