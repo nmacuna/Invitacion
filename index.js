@@ -1,7 +1,7 @@
 const yesBtn = document.querySelector('#yesBtn');
 
 yesBtn.addEventListener('click',function () {
-    alert('Muchas gracias, me encanta que digas que sí')
+    alert('Thanks, I don not have cookies :)')
 });
 
 const noBtn = document.querySelector('#noBtn');
